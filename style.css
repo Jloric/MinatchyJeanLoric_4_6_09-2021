@@ -676,8 +676,12 @@ a {
     margin: auto auto auto auto;
 }
 
+strong {
+    font-weight: normal;
+}
+
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -686,7 +690,7 @@ p {
 }
 
 .h1 {
-    font-size: 20px;
+    font-size: 32px;
     font-family: "Open Sans";
 }
 
