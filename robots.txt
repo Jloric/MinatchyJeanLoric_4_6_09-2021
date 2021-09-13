@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://jloric.github.io/MinatchyJeanLoric_4_6_09-2021/sitemap.xml
